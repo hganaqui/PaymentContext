@@ -1,0 +1,12 @@
+D:\Programacao\Balta.io\Dominio Rico\Dev\PaymentContext\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Domain.deps.json
+D:\Programacao\Balta.io\Dominio Rico\Dev\PaymentContext\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Domain.dll
+D:\Programacao\Balta.io\Dominio Rico\Dev\PaymentContext\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Domain.pdb
+D:\Programacao\Balta.io\Dominio Rico\Dev\PaymentContext\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.csprojAssemblyReference.cache
+D:\Programacao\Balta.io\Dominio Rico\Dev\PaymentContext\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.AssemblyInfoInputs.cache
+D:\Programacao\Balta.io\Dominio Rico\Dev\PaymentContext\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.AssemblyInfo.cs
+D:\Programacao\Balta.io\Dominio Rico\Dev\PaymentContext\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.csproj.CoreCompileInputs.cache
+D:\Programacao\Balta.io\Dominio Rico\Dev\PaymentContext\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.dll
+D:\Programacao\Balta.io\Dominio Rico\Dev\PaymentContext\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.pdb
+D:\Programacao\Balta.io\Dominio Rico\Dev\PaymentContext\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Shared.dll
+D:\Programacao\Balta.io\Dominio Rico\Dev\PaymentContext\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Shared.pdb
+D:\Programacao\Balta.io\Dominio Rico\Dev\PaymentContext\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.csproj.CopyComplete
