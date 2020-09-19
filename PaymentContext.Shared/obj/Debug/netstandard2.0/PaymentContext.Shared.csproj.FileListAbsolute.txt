@@ -1,7 +1,6 @@
 D:\Programacao\Balta.io\Dominio Rico\Dev\PaymentContext\PaymentContext.Shared\bin\Debug\netstandard2.0\PaymentContext.Shared.deps.json
 D:\Programacao\Balta.io\Dominio Rico\Dev\PaymentContext\PaymentContext.Shared\bin\Debug\netstandard2.0\PaymentContext.Shared.dll
 D:\Programacao\Balta.io\Dominio Rico\Dev\PaymentContext\PaymentContext.Shared\bin\Debug\netstandard2.0\PaymentContext.Shared.pdb
-D:\Programacao\Balta.io\Dominio Rico\Dev\PaymentContext\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.csprojAssemblyReference.cache
 D:\Programacao\Balta.io\Dominio Rico\Dev\PaymentContext\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.AssemblyInfoInputs.cache
 D:\Programacao\Balta.io\Dominio Rico\Dev\PaymentContext\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.AssemblyInfo.cs
 D:\Programacao\Balta.io\Dominio Rico\Dev\PaymentContext\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.csproj.CoreCompileInputs.cache
