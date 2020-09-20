@@ -6,6 +6,7 @@ D:\Programacao\Balta.io\Dominio Rico\Dev\PaymentContext\PaymentContext.Tests\bin
 D:\Programacao\Balta.io\Dominio Rico\Dev\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\PaymentContext.Tests.runtimeconfig.dev.json
 D:\Programacao\Balta.io\Dominio Rico\Dev\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\PaymentContext.Tests.dll
 D:\Programacao\Balta.io\Dominio Rico\Dev\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\PaymentContext.Tests.pdb
+D:\Programacao\Balta.io\Dominio Rico\Dev\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\Flunt.dll
 D:\Programacao\Balta.io\Dominio Rico\Dev\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
 D:\Programacao\Balta.io\Dominio Rico\Dev\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
 D:\Programacao\Balta.io\Dominio Rico\Dev\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
